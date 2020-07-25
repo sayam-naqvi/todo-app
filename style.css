@@ -1,0 +1,62 @@
+div{
+    text-align: center;
+/* }
+
+.btn2{ border-radius: 15px;
+    background-color: hsl(256, 100%, 25%);
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-left: 30px ;
+    
+  
+  }
+  .btn2:hover {
+  background-color: rgb(247, 25, 43);
+}
+  
+body{
+  text-align: center ;
+  margin-top: 200px;
+  margin-left: 150px;
+  background: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% ;}
+
+#list{
+list-style: none; 
+text-align: left;
+margin-left: px;
+
+             }
+    .btn {
+      background-color:  hsl(256, 100%, 25%) ;
+  
+  color: white;
+  padding: 15px 18px;
+  font-size: 16px;
+  border-radius: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+                 }
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgb(247, 25, 43);
+}
+.btn1{
+    border-radius: 15px;
+    background-color:  hsl(256, 100%, 25%);
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-left: 10px;
+    ;
+
+}
+.btn1:hover {
+  background-color: rgb(43, 247, 25);
+}
+.fafa-trash{
+    background-color: rgb(247, 25, 43);
+} */
